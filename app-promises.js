@@ -83,7 +83,7 @@ const getStatus = (userId) => {
 // });
 
 
-// ASYNC sexample:
+// ASYNC example:
 
 // const example = async (userId) => {
 //     throw new Error('This is an error'); //Throwing an error = rejecting a Promise.
